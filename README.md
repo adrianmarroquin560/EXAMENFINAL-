@@ -32,4 +32,4 @@ El programa define una clase `BST` que contiene:
 ## 🖥️ Ejemplo de Ejecución
 Al ejecutar el `main`, se insertan los valores `{50, 30, 70, 20, 40, 60, 80}` y se muestran los recorridos:
 
-link del video: 
+link del video: https://youtu.be/hvwymcpoE_c
